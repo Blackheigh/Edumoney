@@ -1,0 +1,8 @@
+{
+  "name": "DhanSetu - Regional Financial Awareness & Fraud Shield",
+  "description": "Clean, aesthetic regional financial learning hub for Tier 2 and Tier 3 communities with multi-language support, jargon-free dictionary, interactive savings tools, transaction tracker, and AI screenshot scam detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
